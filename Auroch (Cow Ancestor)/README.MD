@@ -12,6 +12,7 @@ The species survived in Europe until 1627, when the last recorded aurochs died i
 
 https://en.wikipedia.org/wiki/Aurochs
 
+![auroch render](https://raw.githubusercontent.com/sirrobzeroone/Animal_Models/main/Auroch%20(Cow%20Ancestor)/Auroch_family_picture.png?token=AKTPVPTPI7YWEYAI6NTGPMC7XD3JG)
 
 ---------------------------
 ##     Coloring/Gender    
