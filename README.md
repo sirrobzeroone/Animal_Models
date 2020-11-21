@@ -12,7 +12,7 @@ own use but happy to share and anyone is free to use.
 
 Blend files and Graphics are all created by me (Sirrobzeroone) you are free to use these for anyone
 purpose as I release them under the CC0 Liscence. I'd appreciate a link back or something but as per 
-CC0 no needto. 
+CC0 no need to. 
 
 Full Text
 https://creativecommons.org/publicdomain/zero/1.0/
