@@ -21,7 +21,7 @@ Male - Black with Grey/White stripe along back, larger.
 Female - Red/Brown, smaller udder than domestic cows.  
 Calf - Male & Female both red/brown.  
 
-Adult genders - Have been modelled slightly differently, udders for female and testis for males, males larger horns and generally bigger.
+Adult genders - Have been modelled slightly differently, udders for female and testis for males, males larger horns and generally bigger.  
 Calf genders - A simple texture swap on the single model providing male/female differentiation.
 
 ---------------------------
