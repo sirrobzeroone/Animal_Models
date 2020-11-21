@@ -31,15 +31,16 @@ All 3 use the same animation rig although the one for the calf was modified slig
 The difference between walk/trot/run see this simple link which has a nice 2d representation of a quadrapeds walk cycle, although I did mess up slightly:
 https://vimeo.com/215637283
 
-      Start---End---FPS
-Walk:   216   231   10
-Trot:    85   114   20
-Run:    120   140   30
-Eat:      0    30   15
-Chew:    31    74   15
-Attack: 145   160   20
-Die:    191   211   10
-Lay:     ~~Pending~~
+|     | Start | End | FPS |
+|-----|-------|-----|-----|
+|Walk:|  216  | 231 |  10 |
+|Trot:|   85  | 114 |  20 |
+|Run: |  120  | 140 |  30 |
+|Eat: |    0  |  30 |  15 |
+|Chew:|   31  |  74 |  15 |
+|Atk: |  145  | 160 |  20 |
+|Die: |  191  | 211 |  10 |
+|Lay: |   -   |  -  |   - |
 
 
 
