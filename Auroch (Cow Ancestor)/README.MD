@@ -4,7 +4,7 @@
 	~ ~  ~  ~ ~  ~   ~  ~ ~
                         
 ---------------------------
--- Auroch from Wikipedia --
+   Auroch from Wikipedia 
 ---------------------------
 The aurochs (/ˈɔːrɒks/ or /ˈaʊrɒks/; pl. aurochs, or rarely aurochsen, aurochses), also known as urus or ure (Bos primigenius), 
 is an extinct species of large wild cattle that inhabited Asia, Europe, and North Africa. It is the ancestor of domestic cattle. 
@@ -14,17 +14,17 @@ https://en.wikipedia.org/wiki/Aurochs
 
 
 ---------------------------
---    Coloring/Gender    --
+      Coloring/Gender    
 ---------------------------
-Male - Black with Grey/White stripe along back, larger
-Female - Red/Brown, smaller udder 
-Calf - Male & Female both red/brown
+Male - Black with Grey/White stripe along back, larger.  
+Female - Red/Brown, smaller udder. 
+Calf - Male & Female both red/brown.  
 
 Adult genders - Have been modelled slightly differently, udders for female and testicales for males, males larger horns and generally bigger.
-Calf genders - A simple texture swap on the single model providing male/female differentiation
+Calf genders - A simple texture swap on the single model providing male/female differentiation.
 
 ---------------------------
---       Animation       --
+         Animation       
 ---------------------------
 All 3 use the same animation rig although the one for the calf was modified slightly so that it didn't sink so far into the ground on death.
 
