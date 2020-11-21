@@ -3,9 +3,9 @@
      /  /_\  \ /    \|  |/     \\__  \ |  |    /  \ /  \ /  _ \ / __ |/ __ \|  |  /  ___/
 	/    |    \   |  \  |  Y Y  \/ __ \|  |__ /    Y    (  <_> ) /_/ \  ___/|  |__\___ \ 
 	\____|__  /___|  /__|__|_|  (____  /____/ \____|__  /\____/\____ |\___  >____/____  >
-			\/     \/         \/     \/               \/            \/    \/          \/ 
+            \/     \/         \/     \/               \/            \/    \/          \/ 
 							
-###Sirrobzeroone
+### Sirrobzeroone
 
 Simple animated animal models created in blender and exported in b3d format, created for my
 own use but happy to share and anyone is free to use.
