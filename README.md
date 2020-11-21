@@ -11,14 +11,8 @@ Simple animated animal models created in blender and exported in b3d format, cre
 own use but happy to share and anyone is free to use.
 
 Blend files and Graphics are all created by me (Sirrobzeroone) you are free to use these for anyone
-purpose as I release them under the CC0 Liscence. I'd appreciate a link back or something but no need
-to. 
-
-CC0 - “No Rights Reserved”
-CC0 enables scientists, educators, artists and other creators and owners of copyright- or database-protected content 
-to waive those interests in their works and thereby place them as completely as possible in the public domain, 
-so that others may freely build upon, enhance and reuse the works for any purposes without restriction under 
-copyright or database law.
+purpose as I release them under the CC0 Liscence. I'd appreciate a link back or something but as per 
+CC0 no needto. 
 
 Full Text
-https://creativecommons.org/share-your-work/public-domain/cc0/ 
+https://creativecommons.org/publicdomain/zero/1.0/
