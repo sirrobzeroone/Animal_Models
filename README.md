@@ -5,7 +5,7 @@
 	\____|__  /___|  /__|__|_|  (____  /____/ \____|__  /\____/\____ |\___  >____/____  >
             \/     \/         \/     \/               \/            \/    \/          \/ 
 							
-### Sirrobzeroone
+### Created by Sirrobzeroone
 
 Simple animated animal models created in blender and exported in b3d format, created for my
 own use in minetest but happy to share and anyone is free to use in any software/project.
