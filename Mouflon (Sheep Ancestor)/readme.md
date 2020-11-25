@@ -41,3 +41,11 @@ https://vimeo.com/215637283
 |Atk: |  145  | 160 |  20 |
 |Die: |  191  | 211 |  10 |
 |Lay: |   -   |  -  |   - |
+
+---------------------------
+##     Shearing   
+---------------------------
+The idea was to use the same base 3d model similar to 3d armour and then simply overlay the differnt textures as needed
+When sheep is not shorn overlay wool onto shorn
+When shorn simply update the model texture to remove wool
+If you don't wish to allow shearing you can just use complete
