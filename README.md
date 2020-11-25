@@ -16,3 +16,7 @@ CC0 no need to.
 
 Full Text
 https://creativecommons.org/publicdomain/zero/1.0/
+
+### Current Animals
+* Auroch 
+* Mouflon
