@@ -11,7 +11,7 @@ It is thought to be the ancestor of all modern domestic sheep breeds
 
 https://en.wikipedia.org/wiki/Mouflon
 
-![mouflon render](https://github.com/sirrobzeroone/Animal_Models/blob/main/Auroch%20(Cow%20Ancestor)/Auroch_family_picture.png)
+![mouflon render](https://github.com/sirrobzeroone/Animal_Models/blob/main/Mouflon%20(Sheep%20Ancestor)/Mouflon_family_picture.png)
 
 ---------------------------
 ##     Coloring/Gender    
