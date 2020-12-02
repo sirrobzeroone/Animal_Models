@@ -18,5 +18,5 @@ Full Text
 https://creativecommons.org/publicdomain/zero/1.0/
 
 ### Current Animals
-* Auroch 
-* Mouflon
+* Auroch (Ancestor Cows)
+* Mouflon (Ancestor Sheep)
